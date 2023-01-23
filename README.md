@@ -2,7 +2,7 @@
 
 ## How to run this project
 - Clone this project
-- Give this command npm i and npm ./report.js
+- Give this command npm i and node ./report.js
 
 ## Technology used
 - POSTMAN
